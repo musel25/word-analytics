@@ -1,4 +1,14 @@
-# React + Vite
+# Word Analytics
+
+This project is based on a tutorial by [Bytegrad](https://bytegrad.com) that teaches React and Vite fundamentals.
+
+You can view a live preview of the application at: https://musel25.github.io/word-analytics/
+
+## Tech Stack
+
+- React
+- Vite
+- ESLint for code quality
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
